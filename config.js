@@ -1,4 +1,4 @@
 let config={
     githubRepoPath : "userAuthWithLocalStorage",
-    isGitHub : true
+    isGitHub : false
 }
